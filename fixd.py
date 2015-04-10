@@ -30,7 +30,7 @@ fixd = 0
 prog_file = ("/home/machinekit/gcode/program.ngc")
 prog_file2 = ("/home/machinekit/gcode/program.ngc")
 prog_file3 = ("/home/machinekit/gcode/program.ngc")
-CycleStartPB = ("/sys/class/gpio/gpio69/value")
+
 Fixture1 = ("/sys/class/gpio/gpio69/value")
 Fixture2 = ("/sys/class/gpio/gpio69/value")
 
